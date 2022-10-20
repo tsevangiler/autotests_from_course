@@ -1,0 +1,1 @@
+# autotests_from_course
